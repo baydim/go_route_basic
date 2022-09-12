@@ -1,6 +1,6 @@
 # go_route_basic
 
-A new Flutter project.
+A new Flutter project using go_router and deep link(android)...hv fun. 
 
 ## Getting Started
 
